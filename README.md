@@ -1,5 +1,4 @@
 # TechMarket-Analysis
-# TechMarket Sales Analysis
 
 ## Live Project
 [TechMarket Online Store](https://techmarket-shop.onrender.com) — 
