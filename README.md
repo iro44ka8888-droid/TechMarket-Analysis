@@ -24,7 +24,7 @@ real-world analytics workflow for an online electronics retailer.
 
 ## Project Structure
 
-### `techmarket_analysis.ipynb`
+[techmarket_analysis](https://colab.research.google.com/drive/1BTi7UGrVfjwN44JzY3Lo1E3uetEV7XIK#scrollTo=Vic6TTIpwJXy)
 1. **Data Loading** — importing and overview of the dataset
 2. **Data Inspection** — checking data types, shape, and basic statistics
 3. **Data Cleaning** — handling missing values, duplicates, and outliers
@@ -36,8 +36,8 @@ real-world analytics workflow for an online electronics retailer.
    - 5.4 Product Assortment Analysis
 
 ## Links
-- [Tableau Dashboard](вставити посилання на Tableau Public)
-- [Project Documentation](вставити посилання на GoogleDoc)
+- [Tableau Dashboard](https://public.tableau.com/app/profile/iryna.savelieva/viz/Elstore/Dashboard1)
+- [View DB Schema](https://app.eraser.io/workspace/0nMUqCax4cXy8Dg6Wglb)
 
 ## Key Findings
 - [додай 2-3 головні висновки після аналізу]
