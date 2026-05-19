@@ -23,7 +23,6 @@ open-source data to simulate a real-world analytics workflow for an online elect
 
 - **Python** (Jupyter Notebook / Google Colab) — data cleaning, feature engineering, EDA
 - **Tableau Public** — interactive dashboard
-- **Google Docs** — project documentation
 
 ---
 
