@@ -1,6 +1,11 @@
 # TechMarket-Analysis
 # TechMarket Sales Analysis
 
+## Live Project
+[TechMarket Online Store](https://techmarket-shop.onrender.com) — 
+team educational project; contributed as Data Analyst
+(Python, Tableau Public)
+
 ## Project Description
 Exploratory analysis of an electronics e-commerce store based on 
 the public dataset "eCommerce Events History in Electronics Store" 
