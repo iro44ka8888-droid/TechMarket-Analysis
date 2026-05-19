@@ -3,7 +3,7 @@
 > Exploratory data analysis of an electronics e-commerce store — team educational project.
 > Contributed as **Data Analyst** (Python, Tableau Public).
 
-[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://colab.research.google.com/drive/1BTi7UGrVfjwN44JzY3Lo1E3uetEV7XIK#scrollTo=Vic6TTIpwJXy)
 [![Tableau Public](https://img.shields.io/badge/Tableau-Public-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/iryna.savelieva/viz/Elstore/Dashboard1)
 [![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-electronics-store)
 [![Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://techmarket-shop.onrender.com/)
