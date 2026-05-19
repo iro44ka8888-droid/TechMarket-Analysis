@@ -16,7 +16,9 @@ Exploratory analysis of an electronics e-commerce store based on the public data
 ["eCommerce Events History in Electronics Store"](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-electronics-store)
 from Kaggle. Since real internal website data is not publicly available, this project uses
 open-source data to simulate a real-world analytics workflow for an online electronics retailer.
-[![Dashboard Preview](dashboard_preview.png)](https://public.tableau.com/app/profile/iryna.savelieva/viz/Elstore/Dashboard1)
+<a href="https://public.tableau.com/app/profile/iryna.savelieva/viz/Elstore/Dashboard1">
+  <img src="dashboard_preview.png" alt="Dashboard Preview" width="700"/>
+</a>
 
 ---
 
